@@ -33,6 +33,7 @@ menu:
   about: /about
   archives: /archives
   tags: /tags
+  honor: /honor
   #commonweal: /404.html
 
 
@@ -50,6 +51,7 @@ menu_icons:
   tags: tags
   archives: archive
   commonweal: heartbeat
+  honor: flag
 
 
 
